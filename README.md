@@ -1,5 +1,5 @@
 
-# Share Setting Profile
+#  ShareSettingCollection
 
 ## **Visual Studio**
 - Visual Studio 2017
