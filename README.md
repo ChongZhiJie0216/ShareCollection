@@ -17,6 +17,6 @@
 ## **VMware Workstation 16**
 **`ZF3R0-FHED2-M80TY-8QYGC-NPKYF`**
 
-## ** VSCode **
+## **Visal Studio Code**
 - SettingSync Profile
   - **`d49cf73628eaf0e9f913761bc307f724`**
