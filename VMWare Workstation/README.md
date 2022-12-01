@@ -1,0 +1,11 @@
+## **VMware Workstation 16**
+**`ZF3R0-FHED2-M80TY-8QYGC-NPKYF`**
+
+## **VMware Workstation 17**
+**`MC60H-DWHD5-H80U9-6V85M-8280D`**
+This key worked for me 100% Also i'm not sure if those license keys below will work too.
+
+**`4A4RR-813DK-M81A9-4U35H-06KND`**
+**`NZ4RR-FTK5H-H81C1-Q30QH-1V2LA`**
+**`4C21U-2KK9Q-M8130-4V2QH-CF810`**
+**`4Y09U-AJK97-089Z0-A3054-83KLA`**
